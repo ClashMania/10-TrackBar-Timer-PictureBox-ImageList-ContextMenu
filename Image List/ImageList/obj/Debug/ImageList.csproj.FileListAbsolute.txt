@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\obj\Debug\ImageList.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\obj\Debug\ImageList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\obj\Debug\ImageList.Form1.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\bin\Debug\ImageList.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\bin\Debug\ImageList.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\bin\Debug\ImageList.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\obj\Debug\ImageList.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\ImageList\obj\Debug\ImageList.pdb
