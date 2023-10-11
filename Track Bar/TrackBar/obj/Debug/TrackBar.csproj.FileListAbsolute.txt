@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\obj\Debug\TrackBar.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\obj\Debug\TrackBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\obj\Debug\TrackBar.Form1.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\obj\Debug\TrackBar.Properties.Resources.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\obj\Debug\TrackBar.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\obj\Debug\TrackBar.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\bin\Debug\TrackBar.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\bin\Debug\TrackBar.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\bin\Debug\TrackBar.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\obj\Debug\TrackBar.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\TrackBar\obj\Debug\TrackBar.pdb
